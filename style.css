@@ -1,0 +1,55 @@
+.titles {
+    font-size: 1.6em;
+    margin: 15px 10px 10px;
+}
+
+.sub {
+    font-size: 0.5em;
+    color: #444;
+    vertical-align: middle;
+}
+
+.containers {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 5%;
+}
+
+#inputUrl,
+#output {
+    font-size: 1.1em;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #b5b5b5;
+    border-radius: 3px;
+}
+
+input:focus {
+    border: 3px solid #555;
+}
+
+#help-text {
+    font-weight: 600;
+    margin: 10px;
+}
+
+#copy-right {
+    text-align: center;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(6, 130, 254, 0.905);
+}
+.icons{
+    cursor: pointer;
+    font-size: 30px;
+    color: white;
+}
+.main-sec{
+    margin-top: 10%;
+}
+.how-use{
+    margin-top: 150px;
+}
